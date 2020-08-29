@@ -6,7 +6,7 @@ namespace DifferentBasicTests03
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //Test19 Compute the sum of two integers, if two values are equal :return the triple.
         }
     }
 }
